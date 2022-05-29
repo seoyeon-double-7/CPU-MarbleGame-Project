@@ -1,0 +1,5 @@
+﻿  MarbleGame.c
+C:\Users\bsy05\source\repos\CPU-marble-ITshow\CPU-marble-ITshow\MarbleGame.c(159,20): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\bsy05\source\repos\CPU-marble-ITshow\CPU-marble-ITshow\MarbleGame.c(300,6): warning C4101: 'level_n' :참조되지 않은 지역 변수입니다.
+C:\Users\bsy05\source\repos\CPU-marble-ITshow\CPU-marble-ITshow\MarbleGame.c(353,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  CPU-marble-ITshow.vcxproj -> C:\Users\bsy05\source\repos\CPU-marble-ITshow\x64\Debug\CPU-marble-ITshow.exe
